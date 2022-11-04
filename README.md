@@ -3,13 +3,13 @@ Humboldt Universität zu Berlin - Statistical Methods 2022 (Prof. Dr. Marek Kowa
 
 # Technical requirements
 
-##Python
+## Python
 
 In exercise classes, we will use Python to apply statistical methods to some data.
 
 If you do not already have python (open a terminal and try ipython), download everything from Anaconda: https://www.anaconda.com/products/distribution (latest version is probably best).
 
-##Git
+## Git
 
 For the Linux/OSX users, the best is to use the git command lines (git clone / git add / git commit / git push / git pull)
 
