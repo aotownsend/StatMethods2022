@@ -7,9 +7,9 @@ Humboldt Universität zu Berlin - Statistical Methods 2022 (Prof. Dr. Marek Kowa
 
 In exercise classes, we will use Python to apply statistical methods to some data.
 
-If you do not already have python (open a terminal and try ipython), download everything from Anaconda: https://www.anaconda.com/products/distribution (latest version is probably best).
+If you do not already have Python (open a terminal and try running **ipython**), download everything from Anaconda: https://www.anaconda.com/products/distribution (latest version is probably best).
 
-You can open a jupyter notebook by typing ** jupyter notebook ** in the terminal. From there, you can create a new iPython notebook (.ipynb) file.
+You can open a Jupyter Notebook by typing **jupyter notebook** in the terminal. From there, you can create a new iPython notebook (.ipynb) file.
 
 There are *millions* of Python tutorials online to help you get started if you are new to this language, but don't be afraid to ask for help if you are stuck.
 
