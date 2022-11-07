@@ -17,11 +17,11 @@ Any updates that will be posted can be downloaded by simply executing
 git pull
 ```
 
-For the Linux/OSX users, it is best to use the git command lines to submit your homework:
-- **git pull** to pull any new changes from the repo
-- **git add (file name here)** to add a file change to be committed
-- **git commit -m "message here"** to commit a change
-- **git push** to push the commit to the repo
+For the Linux/OSX users, it is best to use the git command lines to submit your homework. You can do it in this order:
+- **git pull** to pull any new changes from the repo.
+- **git add (file name here)** to add a file change to be committed. Make sure you include the whole file name, including the .ipynb bit for notebooks.
+- **git commit -m "message here"** to commit a change. Please entrer a simple message here to describe what you're doing.
+- **git push** to push the commit to the repo.
 
 For Windows users (and Unix users who do not like command lines...), see Desktop Github: https://desktop.github.com.
 
