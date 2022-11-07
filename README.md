@@ -18,7 +18,7 @@ Any updates that will be posted can be downloaded by running
 git pull
 ```
 
-For the Linux/OSX users, it is best to use the git command lines to submit your homework. \
+For the Linux/OSX users, it is best to use the git command lines to submit your homework.
 
 Change directories to the \submissions folder and the current week of the class (e.g. \submissions\week2).
 
