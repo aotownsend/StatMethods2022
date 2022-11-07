@@ -12,12 +12,17 @@ git clone https://github.com/aotownsend/StatMethods2022.git
 ```
 
 This will create a directory `StatMethods2022` in the current directory. \
-Any updates that will be posted can be downloaded by simply executing
+You can do `cd StatMethods2022` to change to that directory. If you do `pwd`, you should get the current directory: ...\StatMethods2022. \
+Any updates that will be posted can be downloaded by running
 ```
 git pull
 ```
 
-For the Linux/OSX users, it is best to use the git command lines to submit your homework. You can do it in this order:
+For the Linux/OSX users, it is best to use the git command lines to submit your homework. \
+
+Change directories to the \submissions folder and the current week of the class (e.g. \submissions\week2).
+
+You can do it in this order:
 - **git pull** to pull any new changes from the repo.
 - **git add (file name here)** to add a file change to be committed. Make sure you include the whole file name, including the .ipynb bit for notebooks.
 - **git commit -m "message here"** to commit a change. Please entrer a simple message here to describe what you're doing.
