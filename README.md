@@ -20,7 +20,7 @@ git pull
 For the Linux/OSX users, it is best to use the git command lines:
 - **git clone** to copy a github repository
 - **git add** to add a file change to be committed
-- **git commit** to commit a change
+- **git commit -m "message here"** to commit a change
 - **git push** to push the commit to the repo
 - **git pull** to pull any new changes from the repo
 
