@@ -18,10 +18,10 @@ git pull
 ```
 
 For the Linux/OSX users, it is best to use the git command lines to submit your homework:
-- **git add (file name here) ** to add a file change to be committed
+- **git pull** to pull any new changes from the repo
+- **git add (file name here)** to add a file change to be committed
 - **git commit -m "message here"** to commit a change
 - **git push** to push the commit to the repo
-- **git pull** to pull any new changes from the repo
 
 For Windows users (and Unix users who do not like command lines...), see Desktop Github: https://desktop.github.com.
 
